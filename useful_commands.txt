@@ -1,0 +1,8 @@
+python -m venv venv - To Create Python Virtual Enviroment 
+python -m pip install django - To Install Django framework
+django-admin startproject [projectname] -
+python manage.py startapp [app_name] -
+python manage.py makemigrations -
+python manage.py migrate - To 
+python manage.py cratesuperuser - To Create Supruser in Database
+python manage.py runserver - To Start A Development Server
